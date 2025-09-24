@@ -199,6 +199,7 @@ void operationMultiplicationAddition() {
 **Recherche séquentielle**
 
 Description de la complexité de la recherche dans 3 cas:
+	
 	💠Meilleur O(1) Élément en première position
 	💠Moyen O(n/2) Élément au milieu
 	💠Pire O(n) Élément en dernière position ou absent
@@ -206,6 +207,7 @@ Description de la complexité de la recherche dans 3 cas:
 **Multiplication par addition**
 
 Evaluation de l'efficacité de la multiplication par addition successives par rapport à b:
+	
 	💠Pour b petit, O(b) Acceptable
 	💠Pour b grand, O(b) Peu efficace
  
