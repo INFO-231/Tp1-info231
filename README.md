@@ -34,7 +34,7 @@ Ce projet contient plusieurs fichiers C permettant d’implémenter des opérati
    cd chemin/vers/le/projet
 2. compiler avec **make**
    ```bash
-		make -f makefile
+		make
 3. Lancer l'exécutable généré
    ```bash
 		./main
