@@ -43,7 +43,7 @@ int estTableauTrie(Tableau *arr) {
 }
 ```
 
-###🔍 Principe de l'algorithme
+### 🔍 Principe de l'algorithme
 
 Approche à double vérification
 
